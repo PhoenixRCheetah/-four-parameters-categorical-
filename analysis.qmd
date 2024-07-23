@@ -30,4 +30,4 @@ nes_92 <- nes |>
   ))
 ```
 
-Using data from the National Election Studies survey of U.S. citizens, we aim to explore the relationship between voter preference and gender in the 1992 Presidential election.
+Using data from the National Election Studies (NES) survey of U.S. citizens, we aim to explore the relationship between voter preference and gender in the 1992 Presidential election, with the understanding that our results may be influenced by varying response rates among different voter groups.
